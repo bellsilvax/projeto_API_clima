@@ -1,0 +1,4 @@
+O sistema possui o consumo de API, onde o usuário irá pesquisar uma 
+cidade ou país, ele informará o clima, a temperatura, umidade e a quilometragem do vento. 
+Para desenvolver esse projeto foi utilizado as tecnologias HTML , CSS e JS  e a API(openWeather)  publica para que t
+odos os usuários tenha o acesso desejado .A experiência foi agradável onde aprendi a desenvolver um sistema utilizando API publica.
